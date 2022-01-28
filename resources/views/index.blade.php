@@ -33,12 +33,12 @@
             <nav class="main-menu top-menu">
                 <ul>
                     <li class="active"><a href="#">Inicio</a></li>
-                    <li><a href="#">Acerca de Nosotros</a></li>
-                    <li><a href="#">Habitaciones</a></li>
-                    <li><a href="#">Comodidades</a></li>
-                    <li><a href="#">Reserva</a></li>
+                    <li><a href="#call-us">Acerca de Nosotros</a></li>
+                    <li><a href="#rooms">Habitaciones</a></li>
+                    <li><a href="#amenities">Comodidades</a></li>
+                    <li><a href="#search">Reserva</a></li>
                     <li><a href="#">Login</a></li>
-                    <li><a href="#">Contactenos</a></li>
+                    <li><a href="#call-us">Contactenos</a></li>
                 </ul>
             </nav>
         </header>
